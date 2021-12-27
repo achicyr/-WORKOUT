@@ -1,0 +1,4 @@
+# DOSSIER GIT DE WORKOUT QUOTIDIEN POUR PRODUIRE UN PROJET WEB FROM SCRATCH
+Regarder la branche develop_JJMMYYY_NOM-DU-PROJET pour accéder à un workout
+
+
