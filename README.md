@@ -1,4 +1,5 @@
-# DOSSIER GIT DE WORKOUT QUOTIDIEN POUR PRODUIRE UN PROJET WEB FROM SCRATCH
-Regarder la branche develop_JJMMYYY_NOM-DU-PROJET pour accéder à un workout
+# OC PROJET 3: ohmyfood, du 27 Décembre 2021
+
+je n'ai fais que la maquette figma, mais au moins je l'ai faite au complet !
 
 
